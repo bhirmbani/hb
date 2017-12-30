@@ -14,3 +14,6 @@ opencart [free and open source ecommerce platform](https://www.opencart.com/)
 
 ## Online payments system
 midtrans [sistem pembayaran online yang aman dan nyaman.](https://midtrans.com/)
+
+## Group chat
+zulip [open source group chat like slack](https://zulipchat.com/)
