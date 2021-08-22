@@ -33,3 +33,6 @@ A list of recommended Javascript library to helps build your next project.
 * 
 ## wysiwyg editor
 * Editor.js [block styled editor](https://editorjs.io/)
+* 
+## animation
+* Animejs [animation library](https://animejs.com/)
