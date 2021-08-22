@@ -30,3 +30,6 @@ A list of recommended Javascript library to helps build your next project.
 
 ## cloud hosting
 * Deta [free cloud forever](https://deta.sh/)
+* 
+## wysiwyg editor
+* Editor.js [block styled editor](https://editorjs.io/)
