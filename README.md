@@ -36,3 +36,6 @@ A list of recommended Javascript library to helps build your next project.
 * 
 ## animation
 * Animejs [animation library](https://animejs.com/)
+
+## Ilustration
+* Story tale [Free or paid ilustration](https://storytale.io/)
