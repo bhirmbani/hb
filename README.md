@@ -42,3 +42,6 @@ A list of recommended Javascript library to helps build your next project.
 
 ## Testing
 * Peeky [A test framework for the curious minds](https://peeky.netlify.app/)
+
+## Utilities
+* Degit [straightforward project scaffolding](https://github.com/Rich-Harris/degit)
